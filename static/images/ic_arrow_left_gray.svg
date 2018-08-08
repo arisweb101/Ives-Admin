@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_arrow_left_gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Reports-(Table)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reports_call_summary" transform="translate(-149.000000, -1218.000000)">
+            <g id="Group-5" transform="translate(149.000000, 1214.000000)">
+                <g id="ic_arrow_left_gray" transform="translate(0.000000, 4.000000)">
+                    <circle id="Oval" fill="#EFF2F8" cx="18" cy="18" r="18"></circle>
+                    <polygon id="Page-1" fill="#929FB1" transform="translate(18.300000, 18.064753) scale(-1, 1) translate(-18.300000, -18.064753) " points="18.5349241 10.2857143 17.1294289 11.6910477 22.2885243 16.8504669 10.2857143 16.8504669 10.2857143 19.2790385 22.2885243 19.2790385 17.1294289 24.4382958 18.5349241 25.8437911 26.3142864 18.0647527"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

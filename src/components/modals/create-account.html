@@ -1,0 +1,102 @@
+<div id="create-account" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h3 class="modal-title">Create an account</h3>
+      </div>
+      <div class="modal-body">
+        <form action="" />
+        <div class="createpage1 create" :class="{show: createPage1}">
+          <div class="pull-left personal">
+            <h3>Personal Information</h3>
+            <br>
+            <span class="textfield">
+              <input type="text" id="create-full-name" maxlength="60" required="" placeholder=" ">
+              <span class="floating-label">Full Name</span>
+            </span>
+            <span class="textfield">
+              <input type="email" id="create-email" placeholder=" ">
+              <span class="floating-label">Email</span>
+            </span>
+            <span class="textfield">
+              <input type="text" id="create-mobile" maxlength="11" minlength="11" placeholder=" ">
+              <span class="floating-label">Mobile Number</span>
+            </span>
+            <span class="textfield">
+              <input type="text" id="company" placeholder=" ">
+              <span class="floating-label">Company</span>
+            </span>
+            <span class="textfield">
+              <input type="text" id="company-address" placeholder=" ">
+              <span class="floating-label">Company address</span>
+            </span>
+            <span class="textfield">
+              <input type="text" id="create-company" placeholder=" ">
+              <span class="floating-label">Designation</span>
+            </span>
+          </div>
+          <div class="pull-left numbers">
+            <h3>Numbers</h3>
+            <br>
+            <div class="mobile-list">
+              <ul>
+                <li>
+                  <input type="text" placeholder="Type Here" maxlength="11">
+                </li>
+                <div class="add-num-bt">Add number
+                  <span class="plus"></span>
+                </div>
+              </ul>
+            </div>
+            <div class="error-message">Kindly fill up the blank field</div>
+          </div>
+          <div class="clear"></div>
+          <div class="buttons">
+            <button type="submit" class="blue-btn btn-submit" @click="toggleFormPage(false)">Next</button>
+          </div>
+        </div>
+        <div class="createpage2 create" :class="{show: !createPage1}">
+          <div class="pull-left">
+            <h3>Select Plan</h3>
+            <div class="plan">
+              <div class="choose">Choose Plan
+                <br>
+                <label v-model="selectedonlabel">{{selectedonlabel}}
+                  <i class="arrow down"></i>
+                </label>
+                <ul>
+                  <li v-for="plan in plans" v-bind:value="plan" @click="selectedplan(plan.label)">{{plan.label}}</li>
+                </ul>
+              </div>
+              <div class="details">Plan Details
+                <br>
+                <div class="details-box">
+                    <div class="detail-box">Montly Plan Charges <span>{{details.charges}}</span></div>
+                    <div class="detail-box">Monthly number of minutes
+                      <br>(per month)<span>{{details.minutes}}</span></div>
+                      <div class="detail-box">Monthly number of SMS MT
+                      <br>(per month)<span>{{details.smsmt}}</span></div>
+                    <div class="detail-box">Credit Limit<span>{{details.limit}}</span></div>
+                    <div class="detail-box">Cut off date<span>{{details.cutoff}}</span></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="clear"></div>
+            <br>
+            <br>
+            <div class="buttons">
+              <button type="submit" class="btn-back"@click="toggleFormPage(true)">Back</button>
+              <button type="submit" class="blue-btn btn-submit" data-dismiss="modal">Next</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+</div>

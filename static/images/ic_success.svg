@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="153px" height="153px" viewBox="0 0 153 153" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_success</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="153" height="153" rx="76.5"></rect>
+        <path d="M76.5,0 C118.749783,-7.76115929e-15 153,34.2502166 153,76.5 C153,118.749783 118.749783,153 76.5,153 C34.2502166,153 5.1741062e-15,118.749783 0,76.5 C-5.1741062e-15,34.2502166 34.2502166,7.76115929e-15 76.5,0 Z M76.5,1 C34.8025014,1 1,34.8025014 1,76.5 C1,118.197499 34.8025014,152 76.5,152 C118.197499,152 152,118.197499 152,76.5 C152,34.8025014 118.197499,1 76.5,1 Z" id="path-3"></path>
+        <path d="M76.5,153 C34.2502166,153 0,118.749783 0,76.5 C0,34.2502166 34.2502166,0 76.5,0 C118.749783,0 153,34.2502166 153,76.5 C153,118.749783 118.749783,153 76.5,153 Z M76.5,149.8125 C116.989376,149.8125 149.8125,116.989376 149.8125,76.5 C149.8125,36.0106243 116.989376,3.1875 76.5,3.1875 C36.0106243,3.1875 3.1875,36.0106243 3.1875,76.5 C3.1875,116.989376 36.0106243,149.8125 76.5,149.8125 Z" id="path-5"></path>
+        <rect id="path-7" x="0" y="0" width="77" height="77"></rect>
+        <path d="M60.9795684,17.1168101 C62.3850287,15.7038905 64.6855257,15.6805765 66.1201465,17.0646496 C66.1694086,17.1134241 66.1694086,17.1134241 66.3314905,17.2756671 C67.7228365,18.671233 67.7228365,20.9089849 66.3314905,22.3045507 L27.7945866,60.9583333 L27.3449294,60.9583333 L10.6685097,44.2313357 C9.28564103,42.8442728 9.27600578,40.6230724 10.6468171,39.2243972 L10.7698016,39.0989128 C12.1641255,37.6762471 14.4635801,37.6361559 15.908049,39.0092166 C15.9257295,39.0260231 19.536522,42.6472469 27.5694979,50.7041997 L60.9795684,17.1168101 Z" id="path-9"></path>
+    </defs>
+    <g id="Pop-Ups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="success_popup" transform="translate(-760.000000, -257.000000)">
+            <g id="Data-/-Container-/-Icon-Holder" transform="translate(760.000000, 257.000000)">
+                <g id="Material-/-Radius:-100" fill-rule="evenodd" stroke-width="1">
+                    <g id="Elevation"></g>
+                    <g id="Color">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Container"></g>
+                        <g id="Style-/-Color-/-White" mask="url(#mask-2)" fill="#FFFFFF">
+                            <rect id="Container" x="0" y="0" width="153" height="153"></rect>
+                        </g>
+                    </g>
+                    <g id="Border">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Combined-Shape"></g>
+                        <g id="Style-/-Color-/-White" mask="url(#mask-4)" fill="#FFFFFF">
+                            <rect id="Container" x="0" y="0" width="153" height="153"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Border" stroke-width="1" fill-rule="evenodd">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g></g>
+                    <g id="Style-/-Color-/-Crystal" mask="url(#mask-6)" fill="#21ABFF">
+                        <rect id="Container" x="0" y="0" width="153" height="153"></rect>
+                    </g>
+                </g>
+                <g id="Icon-/-Check" transform="translate(38.250000, 38.250000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Container" fill-rule="nonzero"></g>
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Check" fill-rule="nonzero"></g>
+                    <g id="Style-/-Color-/-Crystal" mask="url(#mask-10)" fill="#21ABFF" fill-rule="evenodd">
+                        <rect id="Container" x="0" y="0" width="77" height="77"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

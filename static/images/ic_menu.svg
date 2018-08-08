@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="13px" viewBox="0 0 20 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="IVR-Template-Form" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IVR_template_settings" transform="translate(-84.000000, -29.000000)" fill="#A2B4BC" fill-rule="nonzero">
+            <g id="Group-4" transform="translate(62.000000, 0.000000)">
+                <g id="Group-7">
+                    <g id="header">
+                        <g id="sidebar">
+                            <path d="M22.0689655,41.7647059 L41.9310345,41.7647059 L41.9310345,39.6764706 L22.0689655,39.6764706 L22.0689655,41.7647059 Z M22.0689655,36.5441176 L41.9310345,36.5441176 L41.9310345,34.4558824 L22.0689655,34.4558824 L22.0689655,36.5441176 Z M22.0689655,29.2352941 L22.0689655,31.3235294 L41.9310345,31.3235294 L41.9310345,29.2352941 L22.0689655,29.2352941 Z" id="ic_menu"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

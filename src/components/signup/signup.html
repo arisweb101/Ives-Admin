@@ -1,0 +1,74 @@
+<div classs="login">
+    <div class="login-page signup">
+   <div class="login-body clear-fix">
+      <div class="left-col">
+       <div class="">
+         <img src="/static/images/ic_logo_ives.svg" id="brand-logo">
+         <h3><strong>Sign Up</strong></h3>
+         <p>We connect and keep your social data.</p>
+         <form id="form-signup" class="form">
+            <div class="form-item">
+              <label for="fname">First Name</label>
+              <input type="text" id="fname" required>
+            </div>
+            <div class="form-item">
+              <label for="lname">Last Name</label>
+              <input type="text" id="lname" required>
+            </div>
+            <div class="form-item">
+              <label for="email">E-mail</label>
+              <input type="email" id="email" required>
+              <!-- <div class="error-msg">Invalid e-mail address.</div>
+              <div class="error-msg blank">You can't leave this blank.</div> -->
+            </div>
+            <div class="form-item">
+              <label for="mobile-num">Mobile Number</label>
+              <input type="text" id="mobile-num" minlength="11" maxlength="11" onkeypress='validate(event)' required>
+              <!-- <div class="error-msg">Mobile numbers should be at least 11 digits.</div>
+              <div class="error-msg blank">You can't leave this blank.</div> -->
+            </div>
+            <div class="form-item">
+              <label for="password">Password</label>
+              <input type="password" id="password" minlength="6" required>
+              <a id="show-password" class="show-password"><i class="fas fa-eye"></i></a>
+              <!-- <div class="error-msg">Passwords should be at least 6 characters.</div>
+              <div class="error-msg blank">You can't leave this blank.</div> -->
+            </div>
+            <div class="form-item">
+              <label for="confirm-password">Confirm Password</label>
+              <input type="password" id="confirm-password" minlength="6"  required>
+              <a id="show-confirm-password" class="show-password"><i class="fas fa-eye"></i></a>
+              <div class="error-msg">These passwords don't match.</div>
+            </div>
+            <div class="form-item">
+              <input type="checkbox" id="agree-terms" required>
+              <label for="agree-terms" class="checkbox-label">I agree all statements in</label> <label data-toggle="modal" data-target="#modal-terms" style="cursor: pointer;color: #00B0F5;" class="checkbox-label">terms of service</label>.</label>
+            </div>
+            <input type="submit" value="Sign me up" class="blue-btn btn-submit" data-toggle="modal" data-target="#modal-verify-email"><div style="color:#ACBDC6; display: inline-block;"><a href="#">I already have an account.</a></div>
+          </form>
+         
+       </div>
+     </div>
+     <div class="right-col">
+         <div class="gadget-images">
+           <img src="/static/images/tablet.svg" id="img-tablet" data-aos="fade-up" data-aos-duration="500">
+           <img src="/static/images/phone.svg" id="img-phone" data-aos="fade-up" data-aos-delay="200" data-aos-duration="500">
+         </div>
+     </div>
+     <!-- <div class="background">
+     </div> -->
+       <svg  class="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" style="height:490px;width:1150px;">
+         <defs>
+             <pattern id="img1" patternUnits="userSpaceOnUse" width="1150" height="490">
+                 <image xlink:href="/static/images/bg.jpg" x="-100" y="0" width="1150" height="580"/><!-- Image from http://silviahartmann.com/background-tile/6-grass-meadow-tile.php-->
+             </pattern>
+         </defs>
+        <path xmlns="http://www.w3.org/2000/svg" d="M0,0 575,490 1150,0" fill="url(#img1)"/> 
+     </svg>
+   </div>
+   <div class="footer">
+     <span class="copyright">Copyright © 2018. All rights reserved.</span>
+     <div id="footer-logo">Powered by <img src="/static/images/globe_labs.svg"></div>
+   </div>
+ </div>
+ </div>

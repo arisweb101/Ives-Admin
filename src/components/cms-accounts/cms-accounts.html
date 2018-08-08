@@ -1,0 +1,105 @@
+<div class="wrapper">
+  <headertemp/>
+  <menutemp/>
+  <section class="content-wrapper" style="min-height: 319px;">
+   <!-- Content Header (Page header) -->
+   <section class="content-header">
+     <h1>
+       CMS Accounts
+     </h1>
+     <div class="text-right">
+       <button class="blue-button create" type="button" data-toggle="modal" data-target="#create-account">Create</button>
+     </div>
+   </section>
+   <!-- Main content -->
+   <div class="content">
+     <!-- =========================================================== -->
+
+     <!-- Small boxes (Stat box) -->
+     <div class="row">
+       <div class="col-md-12">
+         <div class="box box-primary">
+           <div class="box-header with-border">
+             <!-- Search -->
+             <div class="search-item">
+                <div class="has-feedback">
+                  <input type="text" class="form-control input-sm search" placeholder="Search Account">
+                </div>
+               </div>
+               <div class="show-item">
+                 <select v-model="selectitem" >
+                   <option v-for="item in showitems">{{item.option}}</option>
+                  </select>
+              </div>
+             <!-- /. Search -->
+
+           </div>
+           <!-- /.box-header -->
+           <div class="box-body no-padding">
+              <div class="table-responsive set-table" id="cms-table">
+               <v2-table :data="cmsaccounts">
+                   <v2-table-column label="Name" prop="name"></v2-table-column>
+                   <v2-table-column label="Email" prop="email"></v2-table-column>
+                   <v2-table-column label="Mobile Number" prop="mobile"></v2-table-column>  
+                   <v2-table-column label="Access Right" prop="accessright"></v2-table-column>
+                   <v2-table-column label="User Password" prop="upassword"></v2-table-column>
+                   <v2-table-column label="Option" prop="option"></v2-table-column>
+                 </v2-table>  
+                <!-- /.table -->
+              </div>
+            </div>
+           <!-- /.box-body -->
+           <div class="box-footer no-padding">
+             <div class="custom-pagination">
+               <nav>
+                 <ul>
+                   <li class="prev">
+                     <a href="#">
+                       <img src="/static/images/ic_arrow_left_gray.svg">
+                     </a>
+                   </li>
+                   <li class="active">
+                     <a href="#">1</a>
+                   </li>
+                   <li>
+                     <a href="#">2</a>
+                   </li>
+                   <li>
+                     <a href="#">3</a>
+                   </li>
+                   <li>
+                     <a href="#">4</a>
+                   </li>
+                   <li>
+                     <a href="#">5</a>
+                   </li>
+                   <li>
+                     <a href="#">...</a>
+                   </li>
+                   <li class="next">
+                     <a href="#">
+                       <img src="/static/images/ic_arrow_right_gray.svg">
+                     </a>
+                   </li>
+                 </ul>
+               </nav>
+               <p>Showing
+                 <span class="current-page">1</span> to
+                 <span class="items-limit">10</span> items out of
+                 <span class="total-items">30</span> entries</p>
+             </div>
+           </div>
+         </div>
+         <!-- /. box -->
+       </div>
+       <!-- /.col -->
+     </div>
+     <!-- /.row -->
+
+     <!-- =========================================================== -->
+
+   </div>
+   <!-- /.content -->
+ </section>
+  <footertemp/>
+</div>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>D353097B-E3DB-475F-B3FA-AB4BC3E91766</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48" rx="24"></rect>
+        <path d="M24,0 C37.254834,-2.4348735e-15 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 C10.745166,48 1.623249e-15,37.254834 0,24 C-1.623249e-15,10.745166 10.745166,2.4348735e-15 24,0 Z M24,1 C11.2974508,1 1,11.2974508 1,24 C1,36.7025492 11.2974508,47 24,47 C36.7025492,47 47,36.7025492 47,24 C47,11.2974508 36.7025492,1 24,1 Z" id="path-3"></path>
+        <linearGradient x1="0%" y1="100%" x2="148.788505%" y2="-22.0629648%" id="linearGradient-5">
+            <stop stop-color="#00DCD0" offset="0%"></stop>
+            <stop stop-color="#00A6FD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="03_dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1184.000000, -844.000000)">
+        <g id="Activities" transform="translate(1141.000000, 749.000000)">
+            <g id="Group-33" transform="translate(37.000000, 70.000000)">
+                <g id="activities_campaigns" transform="translate(6.000000, 25.000000)">
+                    <g id="Material-/-Radius:-100">
+                        <g id="Elevation"></g>
+                        <g id="Color">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Container"></g>
+                            <g id="Style-/-Color-/-White" mask="url(#mask-2)" fill="#FFFFFF">
+                                <rect id="Container" x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                        <g id="Border">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Combined-Shape"></g>
+                            <g id="Style-/-Color-/-White" mask="url(#mask-4)" fill="#FFFFFF">
+                                <rect id="Container" x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Border" opacity="0.3">
+                        <mask id="mask-7" fill="white">
+                            <use xlink:href="#path-6"></use>
+                        </mask>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Icon" transform="translate(14.000000, 15.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <path d="M4.02222222,8.22277778 C5.62222222,11.21 8.2,13.6483333 11.3444444,15.1788889 L13.7888889,12.8566667 C14.0888889,12.5716667 14.5333333,12.4766667 14.9222222,12.6033333 C16.1666667,12.9938889 17.5111111,13.205 18.8888889,13.205 C19.5,13.205 20,13.68 20,14.2605556 L20,17.9444444 C20,18.525 19.5,19 18.8888889,19 C8.45555556,19 0,10.9672222 0,1.05555556 C0,0.475 0.5,0 1.11111111,0 L5,0 C5.61111111,0 6.11111111,0.475 6.11111111,1.05555556 C6.11111111,2.375 6.33333333,3.64166667 6.74444444,4.82388889 C6.86666667,5.19333333 6.77777778,5.605 6.46666667,5.90055556 L4.02222222,8.22277778 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_ivr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_create_IVR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-518.000000, -338.000000)">
+        <g id="Group-9" transform="translate(204.000000, 85.000000)">
+            <g id="Group-4" transform="translate(76.000000, 167.000000)">
+                <g id="Group-3" transform="translate(170.000000, 80.000000)">
+                    <g id="ic_ivr" transform="translate(61.210526, 0.000000)">
+                        <polygon id="Shape" points="2.92105263 0 51.6052632 0 51.6052632 50 2.92105263 50"></polygon>
+                        <path d="M35.5935673,33.4444444 L27.371345,25 L27.371345,18.2866667 C29.7557895,17.4 31.4824561,15.0777778 31.4824561,12.3333333 C31.4824561,8.82888889 28.7280117,6 25.3157895,6 C21.9035673,6 19.1491228,8.82888889 19.1491228,12.3333333 C19.1491228,15.0777778 20.8757895,17.4 23.2602339,18.2866667 L23.2602339,25 L15.0380117,33.4444444 L6.81578947,33.4444444 L6.81578947,44 L17.0935673,44 L17.0935673,37.5611111 L25.3157895,28.6944444 L33.5380117,37.5611111 L33.5380117,44 L43.8157895,44 L43.8157895,33.4444444 L35.5935673,33.4444444 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <polygon id="Shape" points="0 0 48.6842105 0 48.6842105 50 0 50"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

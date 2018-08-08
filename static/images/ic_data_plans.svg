@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_data_plans</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48" rx="24"></rect>
+        <path d="M24,0 C37.254834,-2.4348735e-15 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 C10.745166,48 1.623249e-15,37.254834 0,24 C-1.623249e-15,10.745166 10.745166,2.4348735e-15 24,0 Z M24,1 C11.2974508,1 1,11.2974508 1,24 C1,36.7025492 11.2974508,47 24,47 C36.7025492,47 47,36.7025492 47,24 C47,11.2974508 36.7025492,1 24,1 Z" id="path-3"></path>
+        <linearGradient x1="0%" y1="100%" x2="148.788505%" y2="-22.0629648%" id="linearGradient-5">
+            <stop stop-color="#00DCD0" offset="0%"></stop>
+            <stop stop-color="#00A6FD" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="24" cy="24" r="24"></circle>
+        <rect id="path-8" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-/-dashboard" transform="translate(-1184.000000, -940.000000)">
+            <g id="Activities" transform="translate(1141.000000, 749.000000)">
+                <g id="Group-33-Copy" transform="translate(37.000000, 165.000000)">
+                    <g id="ic_data_plans" transform="translate(6.000000, 26.000000)">
+                        <g id="Material-/-Radius:-100">
+                            <g id="Elevation"></g>
+                            <g id="Color">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Container"></g>
+                                <g id="Style-/-Color-/-White" mask="url(#mask-2)" fill="#FFFFFF">
+                                    <rect id="Container" x="0" y="0" width="48" height="48"></rect>
+                                </g>
+                            </g>
+                            <g id="Border">
+                                <mask id="mask-4" fill="white">
+                                    <use xlink:href="#path-3"></use>
+                                </mask>
+                                <g id="Combined-Shape"></g>
+                                <g id="Style-/-Color-/-White" mask="url(#mask-4)" fill="#FFFFFF">
+                                    <rect id="Container" x="0" y="0" width="48" height="48"></rect>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Border" opacity="0.3">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Icon" transform="translate(12.000000, 12.000000)">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <g id="Container" fill-rule="nonzero"></g>
+                            <path d="M18.17,5.9 C17.7721053,5.35357143 17.1089474,5 16.3684211,5 L4.21052632,5.01071429 C2.99473684,5.01071429 2,5.96428571 2,7.14285714 L2,17.8571429 C2,19.0357143 2.99473684,19.9892857 4.21052632,19.9892857 L16.3684211,20 C17.1089474,20 17.7721053,19.6464286 18.17,19.1 L23,12.5 L18.17,5.9 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-9)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

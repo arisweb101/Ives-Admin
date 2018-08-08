@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="78px" viewBox="0 0 96 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>D8A79A9E-DE26-4BD0-AE65-9832BFA0D85F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="37.7799833%" y1="100%" x2="37.7799839%" y2="-13.9721473%" id="linearGradient-1">
+            <stop stop-color="#00DCD0" offset="0%"></stop>
+            <stop stop-color="#00A6FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="02_dashboard_full" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1286.000000, -305.000000)">
+        <g id="Plans" transform="translate(1141.000000, 211.000000)" fill="url(#linearGradient-1)">
+            <path d="M162.427915,94 L145,121.019654 L193,172 L241,121.019654 L223.572085,94 L162.427915,94 Z M166.495966,98.0246318 L219.504034,98.0246318 L211.131171,118.774471 L174.869832,118.774471 L166.495966,98.0246318 Z M222.891903,100.355317 L234.773022,118.774471 L215.460059,118.774471 L222.891903,100.355317 Z M163.108097,100.355317 L170.540944,118.774471 L151.227981,118.774471 L163.108097,100.355317 Z M213.835848,122.798097 L233.806922,122.798097 L198.857794,159.917051 L213.835848,122.798097 Z M176.49304,122.798097 L209.50696,122.798097 L193,163.705295 L176.49304,122.798097 Z M152.194081,122.798097 L172.164152,122.798097 L187.143209,159.918057 L152.194081,122.798097 Z" id="ic_plan"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_carret_down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="02_dashboard_full-copy-13" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1502.000000, -163.000000)">
+        <g id="body" transform="translate(250.000000, 72.000000)">
+            <g id="Group-31" transform="translate(1004.000000, 43.000000)">
+                <g id="ic_carret_down" transform="translate(243.000000, 41.000000)">
+                    <g id="Shape">
+                        <polygon fill="#535F65" fill-rule="nonzero" points="5.25 7.5 9 11.25 12.75 7.5"></polygon>
+                        <polygon points="0 0 18 0 18 18 0 18"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

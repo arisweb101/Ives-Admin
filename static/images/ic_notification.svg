@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="32px" viewBox="0 0 25 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>3D2F0F57-C089-4CFD-BC23-AE270A856C04</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="01_dashboard_trial" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1359.000000, -20.000000)">
+        <g id="Head" transform="translate(250.000000, 0.000000)" fill="#8FA4AF" fill-rule="nonzero">
+            <g id="Notification" transform="translate(1109.000000, 14.000000)">
+                <g id="ic_notification" transform="translate(0.000000, 6.000000)">
+                    <path d="M12.5,31.2 C14.21875,31.2 15.625,29.76 15.625,28 L9.375,28 C9.375,29.76 10.765625,31.2 12.5,31.2 Z M21.875,21.6 L21.875,13.6 C21.875,8.688 19.3125,4.576 14.84375,3.488 L14.84375,2.4 C14.84375,1.072 13.796875,0 12.5,0 C11.203125,0 10.15625,1.072 10.15625,2.4 L10.15625,3.488 C5.671875,4.576 3.125,8.672 3.125,13.6 L3.125,21.6 L0,24.8 L0,26.4 L25,26.4 L25,24.8 L21.875,21.6 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

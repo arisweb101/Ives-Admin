@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_survey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_create_IVR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-650.000000, -652.000000)">
+        <g id="Group-9" transform="translate(204.000000, 85.000000)">
+            <g id="Group-8" transform="translate(435.000000, 563.000000)">
+                <g id="ic_survey" transform="translate(7.000000, 0.000000)">
+                    <polygon id="Shape" points="0 0 52 0 52 52 0 52"></polygon>
+                    <path d="M45.5,13 L41.1666667,13 L41.1666667,32.5 L13,32.5 L13,36.8333333 C13,38.025 13.975,39 15.1666667,39 L39,39 L47.6666667,47.6666667 L47.6666667,15.1666667 C47.6666667,13.975 46.6916667,13 45.5,13 Z M36.8333333,26 L36.8333333,6.5 C36.8333333,5.30833333 35.8583333,4.33333333 34.6666667,4.33333333 L6.5,4.33333333 C5.30833333,4.33333333 4.33333333,5.30833333 4.33333333,6.5 L4.33333333,36.8333333 L13,28.1666667 L34.6666667,28.1666667 C35.8583333,28.1666667 36.8333333,27.1916667 36.8333333,26 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

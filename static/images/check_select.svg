@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>check_select</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32"></rect>
+        <path d="M16,2.66666667 C23.36,2.66666667 29.3333333,8.64 29.3333333,16 C29.3333333,23.36 23.36,29.3333333 16,29.3333333 C8.64,29.3333333 2.66666667,23.36 2.66666667,16 C2.66666667,8.64 8.64,2.66666667 16,2.66666667 Z M16,5.09090909 C9.97887212,5.09090909 5.09090909,9.97887212 5.09090909,16 C5.09090909,22.0211279 9.97887212,26.9090909 16,26.9090909 C22.0211279,26.9090909 26.9090909,22.0211279 26.9090909,16 C26.9090909,9.97887212 22.0211279,5.09090909 16,5.09090909 Z M14.0737569,17.9697649 L20.2072066,11.7462374 C20.7463949,11.2036127 21.6296813,11.1946517 22.1800819,11.7262225 C22.184389,11.7303822 22.2133756,11.7593638 22.2670418,11.8131673 C22.799875,12.3481832 22.799875,13.2053632 22.2670418,13.7403791 L14.0737569,22 L9.73295832,17.6304952 C9.2033713,17.0987388 9.1996844,16.2479016 9.72464369,15.7117037 L9.77632201,15.6589191 C10.3112111,15.1125788 11.1940674,15.0971698 11.7482368,15.6245021 C11.7542261,15.6302013 12.5293994,16.4119556 14.0737569,17.9697649 Z" id="path-3"></path>
+    </defs>
+    <g id="01_create_IVR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-749.000000, -265.000000)">
+        <g id="Group-9" transform="translate(204.000000, 85.000000)">
+            <g id="Group-4" transform="translate(76.000000, 167.000000)">
+                <g id="Icon-/-Check-circle-/-Stroke" transform="translate(467.000000, 11.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Container" fill-rule="nonzero"></g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Check-Circle" fill-rule="nonzero"></g>
+                    <g id="Style-/-Color-/-White" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Container" x="0" y="0" width="32" height="32"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

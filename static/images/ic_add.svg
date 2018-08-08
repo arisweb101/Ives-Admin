@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-32.0%" y="-28.0%" width="164.0%" height="164.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0932971014 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#00DCD0" offset="0%"></stop>
+            <stop stop-color="#00A6FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-/-full" transform="translate(-316.000000, -285.000000)">
+            <g id="ic_add" transform="translate(326.000000, 293.000000)">
+                <g id="create-IVR" filter="url(#filter-1)">
+                    <g id="Group">
+                        <rect id="Rectangle-3-Copy" fill="url(#linearGradient-2)" x="0" y="0" width="50" height="50" rx="25"></rect>
+                        <g id="ic_add_black_24px" transform="translate(13.000000, 13.000000)">
+                            <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="19 13 13 13 13 19 11 19 11 13 5 13 5 11 11 11 11 5 13 5 13 11 19 11"></polygon>
+                            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

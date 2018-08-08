@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="663px" height="501px" viewBox="0 0 663 501" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>dashboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="623" height="461" rx="45"></rect>
+        <filter x="-6.6%" y="-6.3%" width="113.2%" height="117.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.288856685   0 0 0 0 0.354831696   0 0 0 0 0.362296879  0 0 0 0.193529212 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.0846212283   0 0 0 0 0.261636734  0 0 0 0.253000453 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-6.2%" y="-5.7%" width="112.4%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="10" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-5" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.666137934   0 0 0 0 0.731471121   0 0 0 0 0.807220221  0 0 0 0.612205616 0" type="matrix" in="shadowInnerInner1" result="shadowMatrixInner1"></feColorMatrix>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner2"></feMorphology>
+            <feGaussianBlur stdDeviation="2" in="shadowSpreadInner2" result="shadowBlurInner2"></feGaussianBlur>
+            <feOffset dx="4" dy="7" in="shadowBlurInner2" result="shadowOffsetInner2"></feOffset>
+            <feComposite in="shadowOffsetInner2" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.999901831   0 0 0 0 1   0 0 0 0 0.999879897  0 0 0 0.880717844 0" type="matrix" in="shadowInnerInner2" result="shadowMatrixInner2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-4" x="43.7524752" y="54.7446809" width="534" height="362"></rect>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#00E0D1" offset="0%"></stop>
+            <stop stop-color="#00A9FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.2250714%" y1="-14.5054978%" x2="15.4194163%" y2="120.313478%" id="linearGradient-6">
+            <stop stop-color="#A4EE20" offset="0%"></stop>
+            <stop stop-color="#029600" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.0823759%" y1="-15.2797359%" x2="19.615772%" y2="113.567452%" id="linearGradient-7">
+            <stop stop-color="#FFD844" offset="0%"></stop>
+            <stop stop-color="#FF5F00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Login_OTP-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-798.000000, -254.000000)">
+        <g id="dashboard" transform="translate(818.000000, 264.000000)">
+            <g id="Rectangle-4">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#E6E6E6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Mask">
+                <use fill="#FBFBFB" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke="#DEDEDE" stroke-width="1" x="43.2524752" y="54.2446809" width="535" height="363"></rect>
+            </g>
+            <rect id="Mask" fill="#ECECEC" x="44" y="55" width="534" height="43"></rect>
+            <rect id="Mask" fill="#F4F4F4" x="44" y="55" width="122" height="362"></rect>
+            <rect id="Rectangle-7" fill="url(#linearGradient-5)" x="52" y="166" width="106" height="32" rx="3"></rect>
+            <rect id="Rectangle-10" fill="#FFFFFF" opacity="0.318161232" x="65" y="177" width="81" height="11" rx="5.5"></rect>
+            <rect id="Rectangle-10-Copy" fill="#9196A3" opacity="0.318161232" x="65" y="215" width="54" height="11" rx="5.5"></rect>
+            <rect id="Rectangle-10-Copy" fill="#9196A3" opacity="0.318161232" x="223" y="71" width="94" height="11" rx="5.5"></rect>
+            <g id="Group-7" transform="translate(192.000000, 125.000000)">
+                <rect id="Mask-Copy-2" fill="#F4F4F4" x="0" y="22" width="176" height="69"></rect>
+                <rect id="Mask-Copy-2" fill="url(#linearGradient-6)" x="13" y="0" width="45" height="45"></rect>
+                <circle id="Oval-5" fill="#FFFFFF" opacity="0.273267663" cx="36" cy="23" r="12"></circle>
+                <rect id="Rectangle-10-Copy" fill="#9196A3" opacity="0.1" x="16" y="64" width="145" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-10-Copy-4" fill="#9196A3" opacity="0.1" x="87" y="38" width="72" height="6" rx="3"></rect>
+            </g>
+            <rect id="Mask-Copy-2" fill="#F4F4F4" x="192" y="246" width="230" height="147"></rect>
+            <rect id="Rectangle-10-Copy" fill="#9196A3" opacity="0.1" x="208" y="284" width="189" height="11" rx="5.5"></rect>
+            <rect id="Rectangle-11" fill="#EAEAEB" x="208" y="310" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy" fill="#EAEAEB" x="249" y="310" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-2" fill="#EAEAEB" x="289" y="310" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-3" fill="#EAEAEB" x="330" y="310" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-4" fill="#EAEAEB" x="370" y="310" width="29" height="29"></rect>
+            <rect id="Rectangle-11" fill="#EAEAEB" x="208" y="350" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy" fill="#EAEAEB" x="249" y="350" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-2" fill="#EAEAEB" x="289" y="350" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-3" fill="#EAEAEB" x="330" y="350" width="29" height="29"></rect>
+            <rect id="Rectangle-11-Copy-4" fill="#EAEAEB" x="370" y="350" width="29" height="29"></rect>
+            <rect id="Rectangle-10-Copy-4" fill="#9196A3" opacity="0.2" x="208" y="262" width="94" height="6" rx="3"></rect>
+            <rect id="Mask-Copy-2" fill="#F4F4F4" x="431" y="246" width="122" height="147"></rect>
+            <rect id="Rectangle-11" fill="#EAEAEB" x="442" y="262" width="101" height="34" rx="10"></rect>
+            <rect id="Rectangle-11-Copy-5" fill="#EAEAEB" x="442" y="304" width="101" height="34" rx="10"></rect>
+            <rect id="Rectangle-11-Copy-6" fill="#EAEAEB" x="442" y="345" width="101" height="34" rx="10"></rect>
+            <g id="Group-7-Copy-2" transform="translate(378.000000, 125.000000)">
+                <rect id="Mask-Copy-2" fill="#F4F4F4" x="0" y="22" width="176" height="69"></rect>
+                <rect id="Mask-Copy-2" fill="url(#linearGradient-7)" x="13" y="0" width="45" height="45"></rect>
+                <circle id="Oval-5" fill="#FFFFFF" opacity="0.273267663" cx="36" cy="23" r="12"></circle>
+                <rect id="Rectangle-10-Copy" fill="#9196A3" opacity="0.1" x="16" y="64" width="145" height="11" rx="5.5"></rect>
+                <rect id="Rectangle-10-Copy-4" fill="#9196A3" opacity="0.1" x="87" y="38" width="72" height="6" rx="3"></rect>
+            </g>
+            <rect id="Rectangle-10-Copy-3" fill="#9196A3" opacity="0.318161232" x="515" y="71" width="40" height="11" rx="5.5"></rect>
+            <rect id="Rectangle-10-Copy-2" fill="#9196A3" opacity="0.318161232" x="65" y="246" width="40" height="11" rx="5.5"></rect>
+            <circle id="Oval-4" fill="#D6DBDF" cx="105.5" cy="111.5" r="34.5"></circle>
+            <circle id="Oval-4" fill="#ADB8C2" cx="198" cy="77" r="14"></circle>
+        </g>
+    </g>
+</svg>

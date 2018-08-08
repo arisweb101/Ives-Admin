@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>blank_temp_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="36" cy="36" r="36"></circle>
+        <filter x="-22.2%" y="-19.4%" width="144.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0932971014 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01_create_IVR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-490.000000, -314.000000)">
+        <g id="Group-9" transform="translate(204.000000, 85.000000)">
+            <g id="blank_temp_icon" transform="translate(296.000000, 237.000000)">
+                <g id="Oval-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="ic_ivr" transform="translate(17.000000, 17.000000)">
+                    <polygon id="Shape" points="2.17896335 0 38.4950192 0 38.4950192 37.2975709 2.17896335 37.2975709"></polygon>
+                    <path d="M26.5510719,24.9479307 L20.4176936,18.6487854 L20.4176936,13.6409649 C22.1963733,12.9795547 23.4843828,11.2472897 23.4843828,9.20006748 C23.4843828,6.58592218 21.429701,4.4757085 18.884349,4.4757085 C16.338997,4.4757085 14.2843153,6.58592218 14.2843153,9.20006748 C14.2843153,11.2472897 15.5723247,12.9795547 17.3510045,13.6409649 L17.3510045,18.6487854 L11.2176261,24.9479307 L5.08424782,24.9479307 L5.08424782,32.8218623 L12.7509707,32.8218623 L12.7509707,28.0187641 L18.884349,21.4046615 L25.0177273,28.0187641 L25.0177273,32.8218623 L32.6844502,32.8218623 L32.6844502,24.9479307 L26.5510719,24.9479307 Z" id="Shape" fill="#00C1E7" fill-rule="nonzero"></path>
+                    <polygon id="Shape" points="0 0 36.3160558 0 36.3160558 37.2975709 0 37.2975709"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

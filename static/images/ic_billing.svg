@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="92px" viewBox="0 0 92 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>billing_temp_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="36" cy="36" r="36"></circle>
+        <filter x="-22.2%" y="-19.4%" width="144.4%" height="144.4%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0932971014 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="01_create_IVR" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-359.000000, -630.000000)">
+        <g id="Group-9" transform="translate(204.000000, 85.000000)">
+            <g id="Group-6" transform="translate(76.000000, 500.000000)">
+                <g id="billing_temp_icon" transform="translate(89.000000, 53.000000)">
+                    <g id="Oval-3">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="ic_billing" transform="translate(16.000000, 18.000000)">
+                        <polygon id="Shape" points="0 0 38.2528736 0 38.2528736 36.4597701 0 36.4597701"></polygon>
+                        <path d="M29.6858238,25.6762452 L10.559387,25.6762452 L10.559387,22.637931 L29.6858238,22.637931 L29.6858238,25.6762452 Z M29.6858238,19.5996169 L10.559387,19.5996169 L10.559387,16.5613027 L29.6858238,16.5613027 L29.6858238,19.5996169 Z M29.6858238,13.5229885 L10.559387,13.5229885 L10.559387,10.4846743 L29.6858238,10.4846743 L29.6858238,13.5229885 Z M5.77777778,33.2720307 L8.16858238,30.993295 L10.559387,33.2720307 L12.9501916,30.993295 L15.3409962,33.2720307 L17.7318008,30.993295 L20.1226054,33.2720307 L22.51341,30.993295 L24.9042146,33.2720307 L27.2950192,30.993295 L29.6858238,33.2720307 L32.0766284,30.993295 L34.467433,33.2720307 L34.467433,2.88888889 L32.0766284,5.16762452 L29.6858238,2.88888889 L27.2950192,5.16762452 L24.9042146,2.88888889 L22.51341,5.16762452 L20.1226054,2.88888889 L17.7318008,5.16762452 L15.3409962,2.88888889 L12.9501916,5.16762452 L10.559387,2.88888889 L8.16858238,5.16762452 L5.77777778,2.88888889 L5.77777778,33.2720307 Z" id="Shape" fill="#00C1E7" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

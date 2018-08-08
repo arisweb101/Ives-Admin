@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="22px" viewBox="0 0 24 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_close</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="28.3333333 7.49599084 19.2978236 16 28.3333333 24.5040092 26.0355097 26.6666667 17 18.1626575 7.96449026 26.6666667 5.66666667 24.5040092 14.7021764 16 5.66666667 7.49599084 7.96449026 5.33333333 17 13.8373425 26.0355097 5.33333333"></polygon>
+    </defs>
+    <g id="Pop-Ups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.331012228">
+        <g id="Select_IVR" transform="translate(-1428.000000, -115.000000)">
+            <g id="Icon-/-Close" transform="translate(1423.000000, 110.000000)">
+                <polygon id="Container" points="0 0 34 0 34 32 0 32"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Close"></g>
+                <g id="Style-/-Color-/-Black" mask="url(#mask-2)" fill="#000000" fill-rule="evenodd">
+                    <rect id="Container" x="0" y="0" width="34" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

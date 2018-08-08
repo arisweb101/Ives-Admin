@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="13px" viewBox="0 0 21 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="29" height="29"></rect>
+        <polygon id="path-3" points="7.11466667 9.66666667 14.5 17.1747573 21.8853333 9.66666667 24.1666667 11.9738403 14.5 21.75 4.83333333 11.9738403"></polygon>
+    </defs>
+    <g id="01_edit-profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1282.000000, -632.000000)">
+        <g id="Icon-/-Chevron-Down" transform="translate(1278.000000, 623.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Container" fill-rule="nonzero"></g>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <g id="Chevron-Down"></g>
+            <g id="Style-/-Color-/-Blue" mask="url(#mask-4)" fill="#00A8FB" fill-rule="evenodd">
+                <g transform="translate(14.500000, 14.500000) scale(-1, 1) translate(-14.500000, -14.500000) " id="Container">
+                    <rect x="0" y="0" width="29" height="29"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

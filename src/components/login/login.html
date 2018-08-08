@@ -1,0 +1,54 @@
+<div classs="login">
+    <div class="login-page">
+   <div class="login-body clear-fix">
+      <div class="left-col">
+       <div class="">
+         <img src="/static/images/ic_logo_ives.svg" id="brand-logo">
+         <h3><strong>Login</strong></h3>
+         <p>We connect and keep your social data.</p>
+         <form id="form-login" class="form">
+           <div class="form-item">
+             <label for="email">E-MAIL</label>
+             <input type="email" id="email" required>
+             <!-- <div class="error-msg blank">Please enter e-mail address.</div> -->
+           </div>
+           <div class="form-item">
+             <label for="password">PASSWORD</label>
+             <input type="password" id="password" required>
+             <a id="show-password" class="show-password" @click="showhide($event)"><i class="fas fa-eye"></i></a>
+             <!-- <div class="error-msg blank">Enter a password.</div> -->
+           </div>
+           <div class="form-item">
+             <input type="checkbox" id="rememberme">
+             <label for="rememberme" class="checkbox-label">Remember me</label>
+             <a :href="urls.forgotpassword" id="forgot-password">Forgot your password?</a>
+             
+           </div>
+           <input type="submit" value="Log in" class="blue-btn btn-submit">
+         </form>
+         <div style="color:#ACBDC6;">Don’t have an account? <a :href="urls.signup">I want to sign up.</a></div>
+       </div>
+     </div>
+     <div class="right-col">
+         <div class="gadget-images">
+           <img src="/static/images/tablet.svg" id="img-tablet" data-aos="fade-up" data-aos-duration="500">
+           <img src="/static/images/phone.svg" id="img-phone" data-aos="fade-up" data-aos-delay="200" data-aos-duration="500">
+         </div>
+     </div>
+     <!-- <div class="background">
+     </div> -->
+       <svg  class="background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" style="height:490px;width:1150px;">
+         <defs>
+             <pattern id="img1" patternUnits="userSpaceOnUse" width="1150" height="490">
+                 <image xlink:href="/static/images/bg.jpg" x="-100" y="0" width="1150" height="580"/><!-- Image from http://silviahartmann.com/background-tile/6-grass-meadow-tile.php-->
+             </pattern>
+         </defs>
+        <path xmlns="http://www.w3.org/2000/svg" d="M0,0 575,490 1150,0" fill="url(#img1)"/> 
+     </svg>
+   </div>
+   <div class="footer">
+     <span class="copyright">Copyright © 2018. All rights reserved.</span>
+     <div id="footer-logo">Powered by <img src="/static/images/globe_labs.svg"></div>
+   </div>
+ </div>
+ </div>

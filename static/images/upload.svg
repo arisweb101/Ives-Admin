@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="20px" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>upload</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <path d="M4,4 L20,4 L20,2 L4,2 L4,4 Z M19.155177,14.2163465 L12.355055,7.35809036 C12.1606257,7.1619989 11.8440461,7.16065144 11.6479546,7.35508073 L11.644945,7.35809036 L4.844823,14.2163465 C4.6503937,14.412438 4.65174116,14.7290176 4.84783263,14.9234469 C4.94147551,15.016296 5.06800704,15.0683919 5.199878,15.0683919 L8.56357388,15.0683919 L8.56357388,22 L15.4364261,22 L15.4364261,15.0683919 L18.800122,15.0683919 C19.0762644,15.0683919 19.300122,14.8445342 19.300122,14.5683919 C19.300122,14.4365209 19.2480261,14.3099894 19.155177,14.2163465 Z" id="path-3"></path>
+    </defs>
+    <g id="03_campaign_name_sched_date_time" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1225.000000, -456.000000)">
+        <g id="Group-5">
+            <g id="Group-4" transform="translate(966.000000, 434.000000)">
+                <g id="Icon-/-Upload" transform="translate(255.000000, 20.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Container" fill-rule="nonzero"></g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Download"></g>
+                    <g id="Style-/-Color-/-Blue" mask="url(#mask-4)" fill="#00A8FB" fill-rule="evenodd">
+                        <rect id="Container" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

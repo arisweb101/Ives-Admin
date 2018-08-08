@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_mode_edit_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="IVR-/-List-/-cards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-671.000000, -227.000000)">
+        <g id="Group" transform="translate(326.000000, 204.000000)">
+            <g id="Rectangle">
+                <g id="ic_mode_edit_black_24px" transform="translate(342.000000, 20.000000)">
+                    <path d="M3,17.2505208 L3,21 L6.74947924,21 L17.8079433,9.9415359 L14.0584641,6.19205666 L3,17.2505208 Z M20.7075406,7.04193862 C21.0974865,6.65199278 21.0974865,6.02208027 20.7075406,5.63213443 L18.3678656,3.29245938 C17.9779197,2.90251354 17.3480072,2.90251354 16.9580614,3.29245938 L15.1283155,5.12220525 L18.8777948,8.87168449 L20.7075406,7.04193862 Z" id="Shape" fill="#BAC9D1" fill-rule="nonzero"></path>
+                    <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

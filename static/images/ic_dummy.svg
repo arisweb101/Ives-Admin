@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_dummy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48" rx="24"></rect>
+        <path d="M24,0 C37.254834,-2.4348735e-15 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 C10.745166,48 1.623249e-15,37.254834 0,24 C-1.623249e-15,10.745166 10.745166,2.4348735e-15 24,0 Z M24,1 C11.2974508,1 1,11.2974508 1,24 C1,36.7025492 11.2974508,47 24,47 C36.7025492,47 47,36.7025492 47,24 C47,11.2974508 36.7025492,1 24,1 Z" id="path-3"></path>
+        <path d="M24,48 C10.745166,48 0,37.254834 0,24 C0,10.745166 10.745166,0 24,0 C37.254834,0 48,10.745166 48,24 C48,37.254834 37.254834,48 24,48 Z M24,47 C36.7025492,47 47,36.7025492 47,24 C47,11.2974508 36.7025492,1 24,1 C11.2974508,1 1,11.2974508 1,24 C1,36.7025492 11.2974508,47 24,47 Z" id="path-5"></path>
+        <rect id="path-7" x="0" y="0" width="24" height="24"></rect>
+        <path d="M6.86963612,12.5372386 L10.5242156,16.4421724 L15.1818182,9.5 L22,21 L2,21 L6.86963612,12.5372386 Z M6.54545455,8.37686756 C5.03922341,8.37686756 3.81818182,7.17321476 3.81818182,5.68843378 C3.81818182,4.2036528 5.03922341,3 6.54545455,3 C8.05168568,3 9.27272727,4.2036528 9.27272727,5.68843378 C9.27272727,7.17321476 8.05168568,8.37686756 6.54545455,8.37686756 Z" id="path-9"></path>
+    </defs>
+    <g id="01_Notifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-543.000000, -255.000000)">
+        <g id="Group-3" transform="translate(328.000000, 227.000000)">
+            <g id="Data-/-Container-/-Icon-Holder" transform="translate(215.000000, 28.000000)">
+                <g id="Material-/-Radius:-100" fill-rule="evenodd" stroke-width="1">
+                    <g id="Elevation"></g>
+                    <g id="Color">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Container"></g>
+                        <g id="Style-/-Color-/-Crystal" mask="url(#mask-2)" fill="#21ABFF">
+                            <rect id="Container" x="0" y="0" width="48" height="48"></rect>
+                        </g>
+                    </g>
+                    <g id="Border">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Combined-Shape"></g>
+                    </g>
+                </g>
+                <g id="Border" stroke-width="1" fill-rule="evenodd">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g></g>
+                </g>
+                <g id="Icon-/-Image" transform="translate(12.000000, 12.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="Container" fill-rule="nonzero"></g>
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="Image"></g>
+                    <g id="Style-/-Color-/-White" mask="url(#mask-10)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Container" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

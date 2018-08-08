@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_phone_num</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <path d="M8.50812678,10.2313078 C7.93358353,9.65676458 9.00374196,7.72390544 9.00374196,7.72390544 C9.33186754,6.9811218 9.17060898,5.88028884 8.63992707,5.26088487 L6.26348053,2.48713213 C5.73442553,1.86962707 4.83955514,1.83502689 4.26740546,2.40717656 L2.63032851,4.04425352 C1.62324629,5.05133574 2.00355106,6.97925377 2.5256823,8.29160342 C2.5256823,8.29160342 3.18735592,10.4921768 8.34758954,15.6524105 C13.5078232,20.8126441 15.7083966,21.4743177 15.7083966,21.4743177 C17.0207462,21.9964489 18.9486643,22.3767537 19.9557465,21.3696715 L21.5928234,19.7325945 C22.1649731,19.1604449 22.1303729,18.2655745 21.5128679,17.7365195 L18.7391151,15.3600729 C18.1197112,14.829391 17.0188782,14.6681325 16.2760946,14.996258 C16.2760946,14.996258 14.2587233,15.9819043 13.68418,15.407361 L11.1384094,12.8615906 L8.50812678,10.2313078 L8.50812678,10.2313078 Z" id="path-3"></path>
+    </defs>
+    <g id="01_profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1117.000000, -307.000000)">
+        <g id="Group-12" transform="translate(326.000000, 229.000000)">
+            <g id="Group" transform="translate(789.000000, 75.000000)">
+                <g id="Group-10">
+                    <g id="Icon-/-Phone" transform="translate(0.000000, 1.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Container" fill-rule="nonzero"></g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Phone"></g>
+                        <g id="Style-/-Color-/-Crystal" mask="url(#mask-4)" fill="#21ABFF" fill-rule="evenodd">
+                            <rect id="Container" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

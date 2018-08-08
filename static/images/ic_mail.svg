@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <path d="M20,3.5 C21.1,3.5 22,4.45625 22,5.625 L22,18.375 C22,19.54375 21.1,20.5 20,20.5 L4,20.5 C2.9,20.5 2,19.54375 2,18.375 L2.01,5.625 C2.01,4.45625 2.9,3.5 4,3.5 L20,3.5 Z M19.7648322,7.86172837 C19.9951272,7.70934395 20.1818182,7.36713078 20.1818182,7.0762717 L20.1818182,5.89842915 C20.1818182,5.61701784 19.9955568,5.51332741 19.7648322,5.66747115 L12,10.8550427 L4.23516779,5.66747115 C4.00487279,5.51361442 3.81818182,5.60757008 3.81818182,5.89842915 L3.81818182,7.0762717 C3.81818182,7.35768302 4.00444319,7.70905968 4.23516779,7.86172837 L11.583014,12.7237417 C11.813309,12.8761261 12.1862614,12.8764104 12.416986,12.7237417 L19.7648322,7.86172837 Z" id="path-3"></path>
+    </defs>
+    <g id="01_profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1117.000000, -363.000000)">
+        <g id="Group-12" transform="translate(326.000000, 229.000000)">
+            <g id="Group" transform="translate(789.000000, 75.000000)">
+                <g id="Group-9" transform="translate(0.000000, 55.000000)">
+                    <g id="Icon-/-Mail-/-Fill" transform="translate(0.000000, 1.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Container" fill-rule="nonzero"></g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="E-mail" fill-rule="nonzero"></g>
+                        <g id="Style-/-Color-/-Crystal" mask="url(#mask-4)" fill="#21ABFF" fill-rule="evenodd">
+                            <rect id="Container" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

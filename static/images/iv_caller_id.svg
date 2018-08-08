@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>caller_id</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="18" height="18"></rect>
+        <path d="M6.38109508,7.67348087 C5.95018764,7.24257343 6.75280647,5.79292908 6.75280647,5.79292908 C6.99890066,5.23584135 6.87795674,4.41021663 6.4799453,3.94566365 L4.6976104,1.86534909 C4.30081915,1.4022203 3.62966635,1.37627017 3.20055409,1.80538242 L1.97274638,3.03319014 C1.21743472,3.7885018 1.50266329,5.23444033 1.89426173,6.21870257 C1.89426173,6.21870257 2.39051694,7.86913263 6.26069216,11.7393078 C10.1308674,15.6094831 11.7812974,16.1057383 11.7812974,16.1057383 C12.7655597,16.4973367 14.2114982,16.7825653 14.9668099,16.0272536 L16.1946176,14.7994459 C16.6237298,14.3703336 16.5977797,13.6991809 16.1346509,13.3023896 L14.0543363,11.5200547 C13.5897834,11.1220433 12.7641586,11.0010993 12.2070709,11.2471935 C12.2070709,11.2471935 10.6940424,11.9864282 10.263135,11.5555208 L8.35380708,9.64619292 L6.38109508,7.67348087 L6.38109508,7.67348087 Z" id="path-3"></path>
+    </defs>
+    <g id="02_list_cards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-357.000000, -326.000000)">
+        <g id="Group-4" transform="translate(356.000000, 325.000000)">
+            <g id="Icon-/-Phone">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Container" fill-rule="nonzero"></g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Phone"></g>
+                <g id="Style-/-Color-/-Blue" mask="url(#mask-4)" fill="#00A8FB" fill-rule="evenodd">
+                    <rect id="Container" x="0" y="0" width="18" height="18"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

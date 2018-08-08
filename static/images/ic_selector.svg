@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="15px" viewBox="0 0 9 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_selector</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="17" height="17"></rect>
+        <path d="M4.60416667,6.81092331 L8.36726185,1.49264837 C8.44057111,1.38904249 8.56269805,1.3936627 8.63273815,1.49264837 L12.3958333,6.81092331 L4.60416667,6.81092331 Z M4.60416667,10.1823337 L12.3958333,10.1823337 L8.63273815,15.5072566 C8.56269805,15.6063661 8.44057111,15.610992 8.36726185,15.5072566 L4.60416667,10.1823337 Z" id="path-3"></path>
+    </defs>
+    <g id="02_dashboard_full-copy-13" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1459.000000, -273.000000)">
+        <g id="Group-52" transform="translate(326.000000, 239.000000)">
+            <g id="Group-5" transform="translate(1022.000000, 22.000000)">
+                <g id="Icon-/-Selector" transform="translate(107.000000, 11.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Container" fill-rule="nonzero"></g>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Selector" fill-rule="nonzero"></g>
+                    <g id="Style-/-Color-/-Grey" mask="url(#mask-4)" fill="#778F9B" fill-rule="evenodd">
+                        <rect id="Container" x="0" y="0" width="17" height="17"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

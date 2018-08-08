@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="9px" viewBox="0 0 12 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_keyboard_arrow_down_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-/-full" transform="translate(-1035.000000, -1206.000000)">
+            <g id="Call-Stats" transform="translate(349.000000, 1140.000000)">
+                <g id="Group-29">
+                    <g id="create-IVR-Copy" transform="translate(420.000000, 45.000000)">
+                        <g id="ic_keyboard_arrow_down_black_24px" transform="translate(260.000000, 13.000000)">
+                            <polygon id="Shape" fill="#009EFB" fill-rule="nonzero" points="7.41 8.84 12 13.42 16.59 8.84 18 10.25 12 16.25 6 10.25"></polygon>
+                            <polygon id="Shape" points="0 0.25 24 0.25 24 24.25 0 24.25"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

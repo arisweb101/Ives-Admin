@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_company</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <path d="M14.0192308,6.48735777 L14.0192308,4.46965866 L9.98076923,4.46965866 L9.98076923,6.48735777 L14.0192308,6.48735777 Z M20.0288462,6.48735777 C20.5897464,6.48735777 21.0584917,6.68352101 21.4350962,7.07585335 C21.8117006,7.4681857 22,7.94458211 22,8.50505689 L22,19.4823009 C22,20.0427757 21.8117006,20.5191721 21.4350962,20.9115044 C21.0584917,21.3038368 20.5897464,21.5 20.0288462,21.5 L3.97115385,21.5 C3.41025361,21.5 2.94150829,21.3038368 2.56490385,20.9115044 C2.1882994,20.5191721 2,20.0427757 2,19.4823009 L2,8.50505689 C2,7.94458211 2.1882994,7.4681857 2.56490385,7.07585335 C2.94150829,6.68352101 3.41025361,6.48735777 3.97115385,6.48735777 L8.00961538,6.48735777 L8.00961538,4.46965866 C8.00961538,3.90918388 8.19791478,3.44079413 8.57451923,3.06447535 C8.95112368,2.68815657 9.41986899,2.5 9.98076923,2.5 L14.0192308,2.5 C14.580131,2.5 15.0488763,2.68815657 15.4254808,3.06447535 C15.8020852,3.44079413 15.9903846,3.90918388 15.9903846,4.46965866 L15.9903846,6.48735777 L20.0288462,6.48735777 Z" id="path-3"></path>
+    </defs>
+    <g id="01_profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1117.000000, -418.000000)">
+        <g id="Group-12" transform="translate(326.000000, 229.000000)">
+            <g id="Group" transform="translate(789.000000, 75.000000)">
+                <g id="Group-7" transform="translate(0.000000, 110.000000)">
+                    <g id="Icon-/-Work" transform="translate(0.000000, 2.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Container" fill-rule="nonzero"></g>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Work"></g>
+                        <g id="Style-/-Color-/-Crystal" mask="url(#mask-4)" fill="#21ABFF" fill-rule="evenodd">
+                            <rect id="Container" x="0" y="0" width="24" height="24"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

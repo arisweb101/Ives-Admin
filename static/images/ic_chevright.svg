@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_chevronright</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="24"></rect>
+        <polygon id="path-3" points="17 5.888 10.7864078 12 17 18.112 15.0906149 20 7 12 15.0906149 4"></polygon>
+    </defs>
+    <g id="01-Campaign-Copy-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1140.000000, -560.000000)">
+        <g id="Group-10-Copy-9" transform="translate(1108.000000, 532.000000)">
+            <g id="Icon-/-Chevron-Left" transform="translate(25.000000, 24.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Container" fill-rule="nonzero"></g>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Chevron-Left"></g>
+                <g id="Style-/-Color-/-White" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                    <g transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " id="Container">
+                        <rect x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

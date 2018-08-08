@@ -1,0 +1,85 @@
+<div class="wrapper">
+    <headertemp/>
+    <menutemp/>
+    <section class="content-wrapper" style="min-height: 319px;">
+     <!-- Content Header (Page header) -->
+     <section class="content-header">
+       <h1>
+         Request
+       </h1>
+     </section>
+     <!-- Main content -->
+     <div class="content">
+       <!-- =========================================================== -->
+  
+       <!-- Small boxes (Stat box) -->
+       <div class="row">
+         <div class="col-md-12">
+           <div class="box box-primary">
+             <!-- /.box-header -->
+             <div class="box-body no-padding">
+                <div class="table-responsive set-table" id="request-table">
+                 <v2-table :data="request">
+                     <v2-table-column label="Request" prop="request"></v2-table-column>
+                     <v2-table-column label="Details" prop="details"></v2-table-column>
+                     <v2-table-column label="Documents" prop="documents"></v2-table-column>  
+                     <v2-table-column label="" prop="reqoption"></v2-table-column>
+                   </v2-table>  
+                  <!-- /.table -->
+                </div>
+              </div>
+             <!-- /.box-body -->
+             <div class="box-footer no-padding">
+               <div class="custom-pagination">
+                 <nav>
+                   <ul>
+                     <li class="prev">
+                       <a href="#">
+                         <img src="/static/images/ic_arrow_left_gray.svg">
+                       </a>
+                     </li>
+                     <li class="active">
+                       <a href="#">1</a>
+                     </li>
+                     <li>
+                       <a href="#">2</a>
+                     </li>
+                     <li>
+                       <a href="#">3</a>
+                     </li>
+                     <li>
+                       <a href="#">4</a>
+                     </li>
+                     <li>
+                       <a href="#">5</a>
+                     </li>
+                     <li>
+                       <a href="#">...</a>
+                     </li>
+                     <li class="next">
+                       <a href="#">
+                         <img src="/static/images/ic_arrow_right_gray.svg">
+                       </a>
+                     </li>
+                   </ul>
+                 </nav>
+                 <p>Showing
+                   <span class="current-page">1</span> to
+                   <span class="items-limit">10</span> items out of
+                   <span class="total-items">30</span> entries</p>
+               </div>
+             </div>
+           </div>
+           <!-- /. box -->
+         </div>
+         <!-- /.col -->
+       </div>
+       <!-- /.row -->
+  
+       <!-- =========================================================== -->
+  
+     </div>
+     <!-- /.content -->
+   </section>
+    <footertemp/>
+  </div>
